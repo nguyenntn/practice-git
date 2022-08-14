@@ -1,2 +1,2 @@
-# practicing git annd push to github
+# practicing git and push to github
 A one hour project for beginner.
